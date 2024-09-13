@@ -1,7 +1,5 @@
 # Tutorial Jalanin
 
-`npm install react`
-
-`npm run build`
-
-`npm start`
+1. `npm install react`
+2. `npm run build`
+3. `npm start`
